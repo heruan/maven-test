@@ -3,7 +3,7 @@
 
     <groupId>io.github.heruan</groupId>
     <artifactId>maven-test</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.2-SNAPSHOT</version>
 
     <name>maven-test</name>
 
@@ -24,7 +24,7 @@
     <scm>
         <connection>scm:git:git@github.com:heruan/maven-test.git</connection>
         <developerConnection>scm:git:git@github.com:heruan/maven-test.git</developerConnection>
-        <tag>release/1.1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
