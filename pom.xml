@@ -24,7 +24,7 @@
     <scm>
         <connection>scm:git:git@github.com:heruan/maven-test.git</connection>
         <developerConnection>scm:git:git@github.com:heruan/maven-test.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>maven-test-1.0.0</tag>
     </scm>
 
     <dependencies>
