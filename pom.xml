@@ -24,7 +24,9 @@
     </properties>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/heruan/maven-test.git</developerConnection>
+        <connection>scm:git:git@github.com:heruan/maven-test.git</connection>
+        <developerConnection>scm:git:git@github.com:heruan/maven-test.git</developerConnection>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
